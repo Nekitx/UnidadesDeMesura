@@ -3,7 +3,7 @@
 ## EXERCICIS Unitats de mesura:
 
 
-0) Des de quin any existeixen "nous prefixes informàtics"  https://es.wikipedia.org/wiki/Terabyte 
+0) Des de quin any existeixen "nous prefixes informàtics"  https://es.wikipedia.org/wiki/Terabyte javier
 
 1) Ordenar per tamany els seguents arxius:  4000 KB, 0.3GB , 5MB, 0.02 GB , 400 KB, 0.5MB
 
