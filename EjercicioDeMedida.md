@@ -26,10 +26,16 @@
 6) Un sistema informàtic de 80GB de disc dur, esta ocupat en un 20%. 
 Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitaria?
 
+**(80GB * 0.2GB)/ 0,7GB (700MB) = 22,8 CD == 23 CD. (80GB * 0.2GB) / 4GB= 4 DVDs** Christian
+
 7) Un arxiu DIV-X ocupa 5,6GB . 
    Quants CD necessito per guardar-lo? Quants Blu-ray?
+   
+ **5,6 GB / 0,7 = 8 CD 5,6GB / 25GB = 1 Blu-ray y sobran 19,4GB** Christian
 
 8) Sabiendo que un DVD de simple capa tiene una capacidad de 4,7 GB, que la capacidad de un CD es de 700 MB calcula a cuantos CDs equivale dicho DVD.
+
+**0,7GB * 7 = 4,9GB 1 DVD equivale aproximadamente a 7 CD** Christian
 
 9) Suponiendo que 2 horas de cine en calidad Divx ocupan 700 MB, calcula cuántas películas podemos almacenar en un disco duro de 1,5 TB
 
