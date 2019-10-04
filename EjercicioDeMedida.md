@@ -21,7 +21,7 @@
 
 5) Quantes fotos de 2 Megapixels = 2.000.000 bits caben a un CD (700 MB)
 
-**350 Fotos**
+**350 Fotos** Edu
 
 6) Un sistema informàtic de 80GB de disc dur, esta ocupat en un 20%. 
 Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitaria?
@@ -39,6 +39,7 @@ Quants CDs necessitaré per fer una copia de seguretat?. Quants DVDs necessitari
 
 9) Suponiendo que 2 horas de cine en calidad Divx ocupan 700 MB, calcula cuántas películas podemos almacenar en un disco duro de 1,5 TB
 
+**2 Peliculas** Edu
 
 10) Suponiendo que una canción en formato mp3 ocupa 5 MB, calcula cuántas canciones podemos almacenar en un reproductor de mp3 con una memoria de 4 GB.
 
