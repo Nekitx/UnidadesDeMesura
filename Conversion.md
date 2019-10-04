@@ -3,12 +3,21 @@
 
 0) Ordenar por orden de mayor a menor:  23Mb/s , 500Mb/min , 56Kbps , 0.5Gbps,  50MB/min,  4Gb/min
 
+**0.5 Gbps, 4Gb/min, 23Mb/s, 500Mb/min, 50MB/min, 56Kbps** Christian
+
 1) Supongamos que tenemos en casa una conexión de 6 Megabits/s y que todas las transferencias de información se producen a esta velocidad, en la realidad no ocurre porque la velocidad que nos ofrece la compañía es la máxima posible, en la práctica siempre tenemos una velocidad menor. Además la velocidad de conexión en Internet depende del ordenador al que estemos conectados.
 
 a) ¿Cuántos bytes se pueden transmitir en un segundo?
+
+**750.000 Bytes en 1 segundo** Christian
+
 b) ¿En cuánto tiempo descargaremos un documento de Word de 500 KB?
+
+**En 0.67 Segundos** Christian
+
 c) ¿Cuánto tiempo tardaríamos en descargar un CD (700 MB) si la velocidad de conexión fuera de 200 KB/s?
 
+**3.500 Segundos 58.3 Minutos prácticamente 1 hora** Christian
 
 2) Un arxiu de 2,4MB . Quan de temps tarda a gravar-se a una gravadora CD 1X .  I a una 8X?
 **En un cd x1, tardara 16segundos, y en una x8 tardara 2 segundos. javier**
